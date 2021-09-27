@@ -1,16 +1,14 @@
-### Hi there 👋
+### Kağan Güngör 
+[![Linkedin Badge](https://img.shields.io/badge/-Kagan_Gungor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kagan-gungor//)](https://www.linkedin.com/in/kagan-gungor/) [![Gmail Badge](https://img.shields.io/badge/-gungork96@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gungork96@gmail.com)](mailto:gungork96@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Hi 👋, 
+I'm Kağan Güngör, I'm a software engineer who is passionate about data science and machine learning. I'm also a self-taught game developer.
 
-<!--
-**kagan-gungor/kagan-gungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **I'm currently learning pixel art to progress in game development.
+-  **Languages :** Python :zap: | C# :fire:	| C++ :zap: 
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=kagan-gungor&show_icons=true)
+![github_stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kagan-gungor&theme=buefy&layout=compact)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
