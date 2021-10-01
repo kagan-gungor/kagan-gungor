@@ -4,7 +4,7 @@
 ## Hi 👋, 
 I'm Kağan Güngör, I'm a software engineer who is passionate about data science and machine learning. I'm also a self-taught game developer.
 
--  I'm currently learning pixel art to progress in game development.
+-  I'm currently learning all about data science and pixel art to progress in game development.
 -  **Languages :** Python :zap: | C# :fire:	| C++ :zap: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
